@@ -3,4 +3,6 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+[Buy me a coffee ](https://buymeacoffee.com/perfectbeliever)
+
+[Sponsor me](https://github.com/sponsors/peRFectBeliever)
