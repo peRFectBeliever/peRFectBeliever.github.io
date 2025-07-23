@@ -9,7 +9,7 @@ tags = [
     "poem",
 ]
 categories = [
-    "tamil poem",
+    "tamil poems",
 ]
 series = ["Tamil Poems"]
 +++
