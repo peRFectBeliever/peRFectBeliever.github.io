@@ -6,12 +6,12 @@
     <description>Recent content in K6 on Devendran Nehru</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/k6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K6s Introduction</title>
       <link>http://localhost:1313/posts/test-automation/k6s_blog/</link>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test-automation/k6s_blog/</guid>
       <description>&lt;h1 id=&#34;-performance-testing-with-k6-a-complete-guide-with-examples&#34;&gt;&#xD;&#xA;  🧪 Performance Testing with K6: A Complete Guide with Examples&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-performance-testing-with-k6-a-complete-guide-with-examples&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;-introduction&#34;&gt;&#xD;&#xA;  📌 Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;When building modern web applications, ensuring they can handle a high load of users is essential. &lt;strong&gt;K6&lt;/strong&gt; is a developer-centric open-source load testing tool built for making performance testing simple, efficient, and fun.&lt;/p&gt;&#xA;&lt;p&gt;K6 enables developers and QA engineers to write load tests using JavaScript, execute them locally or in the cloud, and gain insights into performance bottlenecks before they impact real users.&lt;/p&gt;</description>
     </item>
