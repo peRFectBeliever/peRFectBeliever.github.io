@@ -1,1 +1,17 @@
-public/**/*
+#hugo
+/public/
+/resources/
+.hugo_build.lock
+
+#hugo executables
+hugo.exe
+hugo.linux
+hugo.darwin
+
+#Mac only
+.DS_Store
+
+#npm
+node_modules
+dist
+tmp
