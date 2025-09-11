@@ -1,8 +1,8 @@
 
 +++
 authors = ["Devendran Nehru"]
-title = "Docker Notes"
-date = "2025-07-30"
+title = "Spring Framework Guide"
+date = "2025-09-12"
 description = "Spring Framework Guide"
 tags = [
     "spring",
