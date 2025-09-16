@@ -1,7 +1,7 @@
 
 +++
 authors = ["Devendran Nehru"]
-title = "Playwright Introduction"
+title = "Test Automation MasterClass - Playwright Introduction"
 date = "2024-12-10"
 description = "🎭 End-to-End Testing with Playwright: A Complete Guide"
 tags = [

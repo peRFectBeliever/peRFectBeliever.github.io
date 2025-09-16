@@ -1,7 +1,7 @@
 
 +++
 authors = ["Devendran Nehru"]
-title = "SQL with PostreSQL"
+title = "Kick start your SQL Journey with PostreSQL"
 date = "2025-07-30"
 description = "Notes for PostgreSQL"
 tags = [

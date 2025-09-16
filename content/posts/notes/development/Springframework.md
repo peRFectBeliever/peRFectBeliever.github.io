@@ -1,9 +1,9 @@
 
 +++
 authors = ["Devendran Nehru"]
-title = "Spring Framework Guide"
+title = "Web Development with Spring Framework "
 date = "2025-09-12"
-description = "Spring Framework Guide"
+description = "Web Develpment With Spring boot web framework"
 tags = [
     "spring",
     "java",
@@ -13,7 +13,7 @@ categories = [
     "Development",
     "StudyNotes",
 ]
-series = ["StudyNotes"]
+series = ["Web Development"]
 +++
 
 

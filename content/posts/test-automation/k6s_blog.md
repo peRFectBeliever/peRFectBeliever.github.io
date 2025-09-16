@@ -1,6 +1,6 @@
 +++
 authors = ["Devendran Nehru"]
-title = "K6s Introduction"
+title = "Performance Testing Masterclass - K6s Introduction"
 date = "2025-07-10"
 description = "Grafana K6s basic guide"
 tags = [

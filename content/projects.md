@@ -3,4 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-Nothing to see here... Move along!
+<hr>
+
+Earth man Server is a  WIP idea of mine.
+[Read More](https://github.com/peRFectBeliever/earth_man_server#)
