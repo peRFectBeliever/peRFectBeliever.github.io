@@ -1,7 +1,7 @@
 
 +++
 authors = ["Devendran Nehru"]
-title = "Docker Notes"
+title = "Leaning Docker: Novoice -> Pro"
 date = "2025-07-30"
 description = "Notes for Docker"
 tags = [

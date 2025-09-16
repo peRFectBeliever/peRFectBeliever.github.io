@@ -13,7 +13,7 @@ categories = [
     "QA",
     "Automation",
 ]
-series = ["Test Automation Frameworks"]
+series = ["Programming Basics"]
 +++
 
 ### Core OOP Concepts: Similarities and Differences in Java
